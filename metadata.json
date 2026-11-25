@@ -1,0 +1,6 @@
+{
+  "name": "Shinobi Tactics",
+  "description": "Pixel art shinobi karakterleriyle Teamfight Tactics tarzı stratejik otomatik savaş arenası.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
